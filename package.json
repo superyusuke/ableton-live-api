@@ -1,0 +1,9 @@
+{
+  "name": "@superyusuke/ableton-live-api",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@superyusuke/ableton-live-api": "^0.0.0"
+  }
+}
